@@ -1,0 +1,7 @@
+~.*
+*.~
+*.swp
+*.bak
+Debug
+Release
+*.suo

@@ -1,0 +1,26 @@
+1. What's this ?
+
+A simple implementation of Reliable UDP.
+With similar calling-interface of socket.
+
+
+2. Compile
+
+1) Generate library:
+
+# make
+
+2) Generate test
+
+# make test
+
+3. Install
+
+You need to copy following header files to your project:
+
+  basetype.h
+  platform-adpt.h
+  rudp.h
+
+plus the library file:
+  XXX/librudp.a
