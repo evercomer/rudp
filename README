@@ -1,8 +1,14 @@
 1. What's this ?
 
 A simple implementation of Reliable UDP.
-With similar calling-interface of socket.
 
+2. What's the feature ?
+
+1) So simple in one C file
+2) With calling-interface similar to POSIX socket.
+3) Two logical channels(send/recv queue) in one connection
+4) Safe for multiple threads
+5) Compiled on Linux/Windows
 
 2. Compile
 
